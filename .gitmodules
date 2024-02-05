@@ -1,0 +1,6 @@
+[submodule "talon-community"]
+	path = talon-community
+	url = git@github.com:mikeysasse/talon-community.git
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = git@github.com:mikeysasse/cursorless-talon.git
