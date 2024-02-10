@@ -4,3 +4,9 @@
 [submodule "cursorless-talon"]
 	path = cursorless-talon
 	url = git@github.com:mikeysasse/cursorless-talon.git
+[submodule "say-the-spire-talon"]
+	path = say-the-spire-talon
+	url = git@github.com:brollin/say-the-spire-talon.git
+[submodule "rango-talon"]
+	path = rango-talon
+	url = ../../david-tejada/rango-talon.git
