@@ -10,3 +10,6 @@
 [submodule "rango-talon"]
 	path = rango-talon
 	url = ../../david-tejada/rango-talon.git
+[submodule "talon-filetree-commands"]
+	path = talon-filetree-commands
+	url = git@github.com:paul-schaaf/talon-filetree-commands.git

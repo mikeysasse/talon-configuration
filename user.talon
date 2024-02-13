@@ -1,6 +1,6 @@
-back:
+nope:
     key(ctrl-z)
-forward:
+yes:
     key(ctrl-y)
 
 put:
@@ -11,3 +11,4 @@ down:
 up:
     key(pageup)
 stop: key(ctrl-c)
+and: key(space)
